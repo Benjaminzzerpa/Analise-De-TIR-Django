@@ -1,0 +1,41 @@
+Macroassumptions:
+    ano
+    min zn price
+    max zn price
+    zn price range
+    min pb price
+    max pb price
+    pb price range
+    min cu price
+    max cu price
+    cu price range
+    min ag price
+    max ag price
+    ag price range
+    min au price
+    max au price
+    au price range
+    min zn tc
+    max zn tc
+    zn tc range
+    min pb tc
+    max pb tc
+    pb tc range
+    min cu tc
+    max cu tc
+    cu tc range
+
+
+tax:
+    ano
+    income tax
+    participation
+    operational margin
+    regalias mineras
+    iem
+    gem
+
+
+
+capex
+    ano
